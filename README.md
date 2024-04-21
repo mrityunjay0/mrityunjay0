@@ -5,7 +5,7 @@ Hi there, I'm Mrityunjay 👋
 - 💬 Ask me about something related to Front-end.
 - 📫 How to reach me: mrityunjaykmr.mk@gmail.com.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
+- ⚡ I can play the piano.
 
 
 Here are a few technologies I've been working with recently:
