@@ -1,15 +1,13 @@
 Hi there, I'm Mrityunjay 👋
 
-- 🌱 I’m currently learning JavaScript, tailwind css, React.
-- 👯 I’m looking to collaborate on web development.
-- 💬 Ask me about something related to Front-end.
 - 📫 How to reach me: mrityunjaykmr.mk@gmail.com.
 - 😄 Pronouns: He/Him.
-- ⚡ I can play the piano.
+- ⚡ I can play piano.
 
 
 Here are a few technologies I've been working with recently:
 
+- Language: Java, c, c++, JavaScript, Python
 - Frontend: HTML, CSS, Tailwind, JavaScript, React
 - Databases: MySQL
 - Tools: Git, VSCode
