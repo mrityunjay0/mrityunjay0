@@ -7,7 +7,7 @@ Hi there, I'm Mrityunjay 👋
 
 Here are a few technologies I've been working with recently:
 
-- Language: Java, c, c++, JavaScript, Python
+- Language: Java, C, C++, JavaScript, Python
 - Frontend: HTML, CSS, Tailwind, JavaScript, React
 - Databases: MySQL
 - Tools: Git, VSCode
