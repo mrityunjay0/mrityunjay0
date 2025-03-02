@@ -1,4 +1,4 @@
-
+![logo](https://github.com/mrityunjay0/mrityunjay0/blob/main/Hii%2C%20I’m.png)
 <h1 align="center">Hi 👋, I'm Mrityunjay Kumar</h1>
 <h3 align="center">A passionate Software Engineering student from India.</h3>
 
