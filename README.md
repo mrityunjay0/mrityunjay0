@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1glVsUciC2pvvj-ULH-w1Kd_TvxY05aCF/view?usp=sharing](https://drive.google.com/file/d/1glVsUciC2pvvj-ULH-w1Kd_TvxY05aCF/view?usp=sharing)
 
-- ⚡ Fun fact **I still believe print("Hello World") is the greatest line of code ever written.**
+- **⚡ I still believe print("Hello World") is the greatest line of code ever written.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
