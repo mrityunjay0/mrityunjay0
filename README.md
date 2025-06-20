@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mrityunjaykmr.mk@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1glVsUciC2pvvj-ULH-w1Kd_TvxY05aCF/view?usp=sharing](https://drive.google.com/file/d/11-poi3mresUaD-gIyTYk3-R8blQJmBua/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1glVsUciC2pvvj-ULH-w1Kd_TvxY05aCF/view?usp=sharing](https://drive.google.com/file/d/11-poi3mresUaD-gIyTYk3-R8blQJmBua/view)
 
 - **⚡ I still believe print("Hello World") is the greatest line of code ever written.**
 
