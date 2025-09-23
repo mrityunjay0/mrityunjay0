@@ -14,14 +14,14 @@
 
 - 📫 How to reach me **mrityunjaykmr.mk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1glVsUciC2pvvj-ULH-w1Kd_TvxY05aCF/view?usp=sharing](https://drive.google.com/file/d/11-poi3mresUaD-gIyTYk3-R8blQJmBua/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IYGoKJid2QBQHTYJcJ9q6Ey7ekoA5JCV/view?usp=sharing](https://drive.google.com/file/d/1IYGoKJid2QBQHTYJcJ9q6Ey7ekoA5JCV/view?usp=sharing)
 
 - **⚡ I still believe print("Hello World") is the greatest line of code ever written.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/the_yaduvanshii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_yaduvanshii" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mrityunjay-kumar-7340062a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrityunjay-kumar-7340062a1/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mrityunjay555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mrityunjay555" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mrityunjay._1111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mrityunjay._1111/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tcit_248" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tcit_248" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mrityunjay_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mrityunjay_" height="30" width="40" /></a>
