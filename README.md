@@ -31,3 +31,10 @@ Hey, I’m Mrityunjay — a backend-focused engineer on a mission to build scala
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mrityunjay0&icon=0&color=9)](https://visitcount.itsvg.in)
+---
+
+<p align="center">
+  <a href="https://mrityunjay.online" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
